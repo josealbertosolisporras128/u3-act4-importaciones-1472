@@ -1,0 +1,7 @@
+﻿id_incidencia,id_guia,fecha,tipo_incidencia,gravedad,responsable,accion_correctiva,costo_extra,tiempo_retraso_horas,resuelta
+701,111,2024-01-11,Direccion incorrecta,Media,Chofer,Reprogramar,0,24,True
+702,333,2024-01-12,Retraso por clima,Alta,Externo,Reprogramar,0,48,False
+703,555,2024-01-12,Cliente ausente,Baja,Cliente,Dejar aviso,0,24,True
+704,222,2024-01-09,Paquete danado,Alta,Almacen,Reemplazo,500,0,True
+705,666,2024-01-08,Entregado a vecino,Baja,Chofer,Validar con cliente,0,0,True
+706,444,2024-01-10,Retraso trafico,Media,Externo,Monitoreo,0,4,True
